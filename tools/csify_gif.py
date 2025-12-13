@@ -8,7 +8,7 @@ Usage:
 import random
 import sys
 from typing import List
-from PIL import Image, ImageDraw, ImageFilter, ImagePalette, ImageSequence
+from PIL import Image, ImageDraw, ImageFilter, ImageSequence
 
 CS_BG = (0x2B, 0x32, 0x28)  # #2b3228
 
@@ -20,44 +20,34 @@ def clamp(channel: int) -> int:
 def csify_frame(im: Image.Image) -> Image.Image:
     frame = im.convert("RGBA")
 
-    # Flatten transparency onto CS background
     bg = Image.new("RGBA", frame.size, CS_BG + (255,))
     frame = Image.alpha_composite(bg, frame)
 
     w, h = frame.size
 
-    # Pixelate: downscale then upscale
-    dw = max(1, w // 2)
-    dh = max(1, h // 2)
-    small = frame.resize((dw, dh), resample=Image.Resampling.BILINEAR)
-    frame = small.resize((w, h), resample=Image.Resampling.NEAREST)
+    small = frame.resize((max(1, w // 2), max(1, h // 2)), Image.BILINEAR)
+    frame = small.resize((w, h), Image.NEAREST)
 
-    # Scanlines: every 3rd row, faint black line
     scan = Image.new("RGBA", (w, h), (0, 0, 0, 0))
-    drawer = ImageDraw.Draw(scan)
+    d = ImageDraw.Draw(scan)
     for y in range(0, h, 3):
-        drawer.line([(0, y), (w, y)], fill=(0, 0, 0, 22))
+        d.line([(0, y), (w, y)], fill=(0, 0, 0, 22))
     frame = Image.alpha_composite(frame, scan)
 
-    # Subtle noise on 1% of pixels
-    pixels = frame.load()
-    noise_pixels = int(w * h * 0.01)
-    for _ in range(noise_pixels):
+    px = frame.load()
+    for _ in range(int(w * h * 0.01)):
         x = random.randrange(w)
         y = random.randrange(h)
-        r, g, b, a = pixels[x, y]
+        r, g, b, a = px[x, y]
         delta = random.randint(-10, 10)
-        pixels[x, y] = (
+        px[x, y] = (
             clamp(r + delta),
             clamp(g + delta),
             clamp(b + delta),
             a,
         )
 
-    # Light sharpen
-    frame = frame.filter(ImageFilter.UnsharpMask(radius=1.1, percent=120, threshold=3))
-
-    return frame
+    return frame.filter(ImageFilter.UnsharpMask(radius=1.1, percent=120, threshold=3))
 
 
 def main(argv: List[str]) -> int:
@@ -73,13 +63,9 @@ def main(argv: List[str]) -> int:
     loop = im.info.get("loop", 0)
 
     for fr in ImageSequence.Iterator(im):
-        durations.append(fr.info.get("duration", im.info.get("duration", 80)))
+        durations.append(fr.info.get("duration", 80))
         cs_frame = csify_frame(fr)
-        paletted = cs_frame.convert("P", palette=Image.ADAPTIVE, colors=256)
-        frames.append(paletted)
-
-    if not frames:
-        raise RuntimeError("No frames found in GIF.")
+        frames.append(cs_frame.convert("P", palette=Image.ADAPTIVE, colors=256))
 
     frames[0].save(
         out_path,
