@@ -14,7 +14,7 @@ Example: https://raw.githubusercontent.com/tilly/tilly/output/cs-snake.gif
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/cs-snake.gif"
+    src="https://raw.githubusercontent.com/Tilly-py/Tilly-py>/output/cs-snake.gif"
     width="780"
     alt="CS Snake"
   />
