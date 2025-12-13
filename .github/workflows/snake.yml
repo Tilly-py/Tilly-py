@@ -34,12 +34,14 @@ jobs:
 
       - name: CSIFY snake gif
         run: |
-          python tools/csify_gif.py dist/raw-snake.gif dist/cs-snake.gif
+          mkdir -p out
+          python tools/csify_gif.py dist/raw-snake.gif out/cs-snake.gif
+
 
       - name: Publish to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          publish_dir: out
           publish_branch: output
           force_orphan: true
