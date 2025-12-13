@@ -14,13 +14,14 @@ Example: https://raw.githubusercontent.com/tilly/tilly/output/cs-snake.gif
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/<Tilly-py>/<Tilly-py>/output/cs-snake.gif"
+    src="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/cs-snake.gif"
     width="780"
     alt="CS Snake"
   />
 </p>
 
-```text
+<div align="center" style="margin: 16px 0;">
+  <pre style="text-align: left; display: inline-block; padding: 16px 18px; background: radial-gradient(circle at 20% 20%, #1f241c 0%, #111511 60%, #0d100d 100%); color: #f3dcb2; font-family: 'Lucida Console', 'Consolas', 'Monaco', monospace; font-size: 14px; line-height: 1.45; border: 1px solid #2b3228; border-radius: 8px; box-shadow: 0 0 12px rgba(0,0,0,0.45), inset 0 0 6px rgba(255,156,0,0.08); text-shadow: 0 0 6px rgba(255,156,0,0.25);">
 Console
 ] developer 1
 ] clear
@@ -75,17 +76,13 @@ discord      "<ADD_LINK_HERE>"
 ] exit
 Disconnect: user initiated.
 
-<details> <summary><b>] files</b></summary>
-
+] files
 cfg/autoexec.cfg
-
 cfg/projects.cfg
-
 .github/workflows/snake.yml
-
-</details>
-```
-
+  </pre>
+</div>
+ 
 ---
 
 ## NEXT STEPS (manual)
