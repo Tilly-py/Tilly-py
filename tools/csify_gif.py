@@ -75,7 +75,7 @@ def main(argv: List[str]) -> int:
     for fr in ImageSequence.Iterator(im):
         durations.append(fr.info.get("duration", im.info.get("duration", 80)))
         cs_frame = csify_frame(fr)
-        paletted = cs_frame.convert("P", palette=ImagePalette.ADAPTIVE, colors=256)
+        paletted = cs_frame.convert("P", palette=Image.ADAPTIVE, colors=256)
         frames.append(paletted)
 
     if not frames:
