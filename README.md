@@ -2,7 +2,7 @@
   <tr>
     <td valign="middle">
 
-# Alex Tilly
+# Alexander Morina Tilly
 
 ### Information Architecture Student · Developer · Security-Oriented Learner
 
