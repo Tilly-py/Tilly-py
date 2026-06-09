@@ -68,13 +68,40 @@ System-oriented development
 
 ### Security & Pentesting Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Nmap-222222?style=flat-square&logo=linux&logoColor=7bd88f" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Metasploit-222222?style=flat-square&logo=metasploit&logoColor=fc618d" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Metasploitable-222222?style=flat-square&logo=linux&logoColor=fce566" alt="Metasploitable" />
-  <img src="https://img.shields.io/badge/TryHackMe-222222?style=flat-square&logo=tryhackme&logoColor=fc618d" alt="TryHackMe" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-222222?style=flat-square&logo=burpsuite&logoColor=fd9353" alt="Burp Suite" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/kalilinux/5ad4e6" width="48" height="48" alt="Kali Linux" />
+      <br />
+      <sub>Kali</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/linux/7bd88f" width="48" height="48" alt="Nmap" />
+      <br />
+      <sub>Nmap</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/metasploit/fc618d" width="48" height="48" alt="Metasploit" />
+      <br />
+      <sub>Metasploit</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/linux/fce566" width="48" height="48" alt="Metasploitable" />
+      <br />
+      <sub>Metasploitable</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/tryhackme/fc618d" width="48" height="48" alt="TryHackMe" />
+      <br />
+      <sub>TryHackMe</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/burpsuite/fd9353" width="48" height="48" alt="Burp Suite" />
+      <br />
+      <sub>Burp Suite</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
