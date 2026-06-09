@@ -1,3 +1,90 @@
+# 📊 Developer Metrics
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚡ GitHub Activity</h3>
+      <img width="400" src="https://github-readme-stats.shion.dev/api?username=tilly-py&theme=monokai&hide_border=true&include_all_commits=true&count_private=false" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🔥 Contribution Streak</h3>
+      <img width="400" src="https://streak-stats.demolab.com/?user=tilly-py&theme=monokai&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🈷️ Most Used Languages</h3>
+      <img width="400" src="https://github-readme-stats.shion.dev/api/top-langs/?username=tilly-py&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🏆 GitHub Trophies</h3>
+      <img width="400" src="https://github-profile-trophy.vercel.app/?username=tilly-py&theme=monokai&no-frame=true&no-bg=true&margin-w=4" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🧩 Metrics Dashboard
+
+Inspired by [`lowlighter/metrics`](https://github.com/lowlighter/metrics), this section can later be replaced with a generated `github-metrics.svg` using GitHub Actions.
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📅 Activity Overview</h3>
+      <p>Profile activity, commits and repository statistics in a compact dashboard format.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🛠️ Current Stack</h3>
+      <p>Python · TypeScript · React · Linux · Flask · PostgreSQL · Security tooling</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔝 Top Contributed Repositories</h3>
+      <img width="400" src="https://github-contributor-stats.vercel.app/api?username=tilly-py&limit=5&theme=monokai&combine_all_yearly_contributions=true" />
+    </td>
+    <td align="center" width="50%">
+      <h3>👁️ Profile Views</h3>
+      <a href="https://visitcount.itsvg.in">
+        <img src="https://komarev.com/ghpvc/?username=tilly-py&style=for-the-badge&color=7bd88f" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<details>
+  <summary><strong>⚙️ Future lowlighter/metrics setup</strong></summary>
+
+<br />
+
+```md
+<img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
+```
+
+This can be generated with a GitHub Actions workflow when the profile repository is ready for a full metrics setup.
+
+</details>
+
+---
+
+<div align="center">
+
+```bash
+alex@github:~$ echo "Always learning. Always building."
+Always learning. Always building.
+```
+
+</div>
 <table>
   <tr>
     <td width="260" align="center">
@@ -128,37 +215,82 @@ A React quiz game using APIs, state management, local storage and interactive UI
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Developer Metrics
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=tilly-py&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=tilly-py&theme=monokai&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tilly-py&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚡ GitHub Activity</h3>
+      <img width="400" src="https://github-readme-stats.shion.dev/api?username=tilly-py&theme=monokai&hide_border=true&include_all_commits=true&count_private=false" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🔥 Contribution Streak</h3>
+      <img width="400" src="https://streak-stats.demolab.com/?user=tilly-py&theme=monokai&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🈷️ Most Used Languages</h3>
+      <img width="400" src="https://github-readme-stats.shion.dev/api/top-langs/?username=tilly-py&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🏆 GitHub Trophies</h3>
+      <img width="400" src="https://github-profile-trophy.vercel.app/?username=tilly-py&theme=monokai&no-frame=true&no-bg=true&margin-w=4" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧩 Metrics Dashboard
+
+Inspired by [`lowlighter/metrics`](https://github.com/lowlighter/metrics), this section can later be replaced with a generated `github-metrics.svg` using GitHub Actions.
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=tilly-py&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📅 Activity Overview</h3>
+      <p>Profile activity, commits and repository statistics in a compact dashboard format.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🛠️ Current Stack</h3>
+      <p>Python · TypeScript · React · Linux · Flask · PostgreSQL · Security tooling</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔝 Top Contributed Repositories</h3>
+      <img width="400" src="https://github-contributor-stats.vercel.app/api?username=tilly-py&limit=5&theme=monokai&combine_all_yearly_contributions=true" />
+    </td>
+    <td align="center" width="50%">
+      <h3>👁️ Profile Views</h3>
+      <a href="https://visitcount.itsvg.in">
+        <img src="https://komarev.com/ghpvc/?username=tilly-py&style=for-the-badge&color=7bd88f" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
----
+<details>
+  <summary><strong>⚙️ Future lowlighter/metrics setup</strong></summary>
 
-## 🔝 Top Contributed Repositories
+<br />
 
-<div align="center">
+```md
+<img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
+```
 
-![](https://github-contributor-stats.vercel.app/api?username=tilly-py&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+This can be generated with a GitHub Actions workflow when the profile repository is ready for a full metrics setup.
 
-</div>
+</details>
 
 ---
 
@@ -168,7 +300,5 @@ A React quiz game using APIs, state management, local storage and interactive UI
 alex@github:~$ echo "Always learning. Always building."
 Always learning. Always building.
 ```
-
-[![](https://komarev.com/ghpvc/?username=tilly-py&style=for-the-badge&color=7bd88f)](https://visitcount.itsvg.in)
 
 </div>
