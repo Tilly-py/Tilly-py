@@ -86,16 +86,6 @@ System-oriented development
       <sub>Metasploit</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.simpleicons.org/linux/fce566" width="48" height="48" alt="Metasploitable" />
-      <br />
-      <sub>Metasploitable</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.simpleicons.org/tryhackme/fc618d" width="48" height="48" alt="TryHackMe" />
-      <br />
-      <sub>TryHackMe</sub>
-    </td>
-    <td align="center" width="80">
       <img src="https://cdn.simpleicons.org/burpsuite/fd9353" width="48" height="48" alt="Burp Suite" />
       <br />
       <sub>Burp Suite</sub>
@@ -123,7 +113,6 @@ Built with Python, shell and system monitoring.
 
 Currently Pursuing in my first Certification in JR-Pentesting
 
-
 ---
 
 # GitHub Stats
@@ -139,7 +128,6 @@ Currently Pursuing in my first Certification in JR-Pentesting
 </div>
 
 ---
-
 
 <div align="center">
 
