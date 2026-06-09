@@ -1,92 +1,174 @@
-<p align="center">
-  <img src="assets/cs_simple_header_780.png" width="780" alt="CS 1.6 Header" />
-</p>
+<table>
+  <tr>
+    <td width="260" align="center">
 
-<p align="center">
-  <img src="assets/cs_loading.gif" width="520" alt="Loading..." />
-</p>
+```txt
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣤⣤⣴⣦⣤⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⣤⣾⣿⣿⣿⣿⠿⠿⠿⠿⣿⣿⣿⣿⣶⣤⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣠⣾⣿⣿⡿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⢿⣿⣿⣶⡀⠀⠀⠀⠀
+⠀⠀⠀⣴⣿⣿⠟⠁⠀⠀⠀⣶⣶⣶⣶⡆⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣦⠀⠀⠀
+⠀⠀⣼⣿⣿⠋⠀⠀⠀⠀⠀⠛⠛⢻⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⣧⠀⠀
+⠀⢸⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⡇⠀
+⠀⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⠀
+⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⡟⢹⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⣹⣿⣿⠀
+⠀⣿⣿⣷⠀⠀⠀⠀⠀⠀⣰⣿⣿⠏⠀⠀⢻⣿⣿⡄⠀⠀⠀⠀⠀⠀⣿⣿⡿⠀
+⠀⢸⣿⣿⡆⠀⠀⠀⠀⣴⣿⡿⠃⠀⠀⠀⠈⢿⣿⣷⣤⣤⡆⠀⠀⣰⣿⣿⠇⠀
+⠀⠀⢻⣿⣿⣄⠀⠀⠾⠿⠿⠁⠀⠀⠀⠀⠀⠘⣿⣿⡿⠿⠛⠀⣰⣿⣿⡟⠀⠀
+⠀⠀⠀⠻⣿⣿⣧⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⠏⠀⠀⠀
+⠀⠀⠀⠀⠈⠻⣿⣿⣷⣤⣄⡀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⣿⣿⠟⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠛⠿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠛⠛⠛⠛⠛⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
 
-<!--
-SNAKE:
-Replace <YOUR_USERNAME> with your GitHub username (repo name matches username).
-Example: https://raw.githubusercontent.com/tilly/tilly/output/cs-snake.gif
--->
+</td>
+<td width="24" align="center">
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Tilly-py/Tilly-py/output/cs-snake.gif"
-    width="780"
-    alt="CS Snake"
-  />
-</p>
+# |
 
-<div align="center" style="margin: 16px 0;">
-  <pre style="text-align: left; display: inline-block; padding: 16px 18px; background: radial-gradient(circle at 20% 20%, #1f241c 0%, #111511 60%, #0d100d 100%); color: #f3dcb2; font-family: 'Lucida Console', 'Consolas', 'Monaco', monospace; font-size: 14px; line-height: 1.45; border: 1px solid #2b3228; border-radius: 8px; box-shadow: 0 0 12px rgba(0,0,0,0.45), inset 0 0 6px rgba(255,156,0,0.08); text-shadow: 0 0 6px rgba(255,156,0,0.25);">
-Console
-] developer 1
-] clear
-] echo "MAU CONNECTED"
-MAU CONNECTED
-] echo "----------------------------------------"
-----------------------------------------
+</td>
+<td valign="middle">
 
-] whoami
-name        "Alex"
-affiliation "MAU"
-role        "Programming / UX UI"
-region      "SE"
-status      "ONLINE"
+# 👋 Alex Tilly
 
-] setinfo stack "Python | JavaScript | HTML/CSS | PostgreSQL"
-] setinfo mode  "build_by_doing"
+### Information Architecture student · Developer · Security-curious builder
 
-] motd
-WELCOME.
-This profile runs on:
-- Programming fundamentals
-- UX/UI thinking (IA mindset)
-- Clean, practical systems
-- Shipping projects (not just drafts)
+Currently studying **Information Architecture at Malmö University** with a strong interest in
+**cybersecurity, systems, programming, Linux, and full-stack development**.
 
-] inventory
-primary_weapon:  python
-secondary:       javascript
-utility:         html_css
-armor:           postgresql
-perk:            ux_ui
+I enjoy building projects that combine structure, interaction and technical curiosity —
+from web apps and APIs to Linux tools and security dashboards.
 
-] exec cfg/projects.cfg
-Loading projects...
-Done.
+```bash
+alex@github:~$ focus
+security · systems · linux · python · react · typescript
+```
 
-] roadmap
-- stronger UI/UX polish (heuristics mindset)
-- deeper DB work (PostgreSQL)
-- sharpen algorithms & data structures
-- keep shipping small, iterate fast
+</td>
+  </tr>
+</table>
 
-] contact
-portfolio    "<ADD_LINK_HERE>"
-linkedin     "<ADD_LINK_HERE>"
-email        "<ADD_LINK_HERE>"
-
-aim          "<ADD_LINK_HERE>"
-discord      "<ADD_LINK_HERE>"
-
-] exit
-Disconnect: user initiated.
-
-] files
-cfg/autoexec.cfg
-cfg/projects.cfg
-.github/workflows/snake.yml
-  </pre>
-</div>
- 
 ---
 
-## NEXT STEPS (manual)
-1) GitHub → Settings → Actions → General → Workflow permissions → enable **Read and write permissions**.
-2) Upload assets:
-   - assets/cs_simple_header_780.png
-   - assets/cs_loading.gif
+## 🧠 About Me
+
+```bash
+alex@portfolio:~$ whoami
+Information Architecture student
+Developer focused on Python, React, TypeScript and security
+Curious about Linux, systems, UX and how technology works under the hood
+```
+
+```bash
+alex@portfolio:~$ currently_learning
+Python OOP
+Linux tooling
+Cybersecurity fundamentals
+TypeScript
+System-oriented development
+```
+
+---
+
+## 🚀 Featured Focus Areas
+
+- 🛡️ **Cybersecurity & vulnerability data**
+- 🐧 **Linux systems and terminal-based tools**
+- ⚛️ **React / TypeScript web applications**
+- 🧩 **Information architecture and UX structure**
+- 🐍 **Python automation and backend development**
+
+---
+
+# 💻 Tech Stack
+
+### Languages & Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=fce566)
+![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=for-the-badge&logo=typescript&logoColor=5ad4e6)
+![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=5ad4e6)
+![CSS3](https://img.shields.io/badge/CSS3-222222?style=for-the-badge&logo=css3&logoColor=7bd88f)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-222222?style=for-the-badge&logo=tailwind-css&logoColor=5ad4e6)
+
+### Backend & Databases
+
+![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=fce566)
+![Flask](https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=f7f1ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-222222?style=for-the-badge&logo=fastapi&logoColor=7bd88f)
+![Django](https://img.shields.io/badge/Django-222222?style=for-the-badge&logo=django&logoColor=7bd88f)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222222?style=for-the-badge&logo=postgresql&logoColor=5ad4e6)
+
+### Tools & Testing
+
+![Git](https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=fc618d)
+![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=fce566)
+![Vite](https://img.shields.io/badge/Vite-222222?style=for-the-badge&logo=vite&logoColor=948ae3)
+![NPM](https://img.shields.io/badge/NPM-222222?style=for-the-badge&logo=npm&logoColor=fc618d)
+![Jest](https://img.shields.io/badge/Jest-222222?style=for-the-badge&logo=jest&logoColor=fc618d)
+![Selenium](https://img.shields.io/badge/Selenium-222222?style=for-the-badge&logo=selenium&logoColor=7bd88f)
+![PowerShell](https://img.shields.io/badge/PowerShell-222222?style=for-the-badge&logo=powershell&logoColor=5ad4e6)
+
+---
+
+## 🧪 Current Projects
+
+### 🛡️ Cyber Threat Dashboard
+A TypeScript / React dashboard using CVE data from the NVD API.
+Focused on vulnerability browsing, severity visualization and security-oriented UI.
+
+### 🐧 Under Huven OS
+A Linux workshop toolkit for helping students understand what happens “under the hood” of a computer.
+Built with Python, terminal tools and system monitoring.
+
+### 🎵 TuneLink
+A music forum concept combining Spotify integration with forum-style discussions.
+Built with Flask, databases and role-based functionality.
+
+### 🧠 Questions 4 Dummies
+A React quiz game using APIs, state management, local storage and interactive UI components.
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=tilly-py&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=tilly-py&theme=monokai&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tilly-py&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=tilly-py&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=tilly-py&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+alex@github:~$ echo "Always learning. Always building."
+Always learning. Always building.
+```
+
+[![](https://komarev.com/ghpvc/?username=tilly-py&style=for-the-badge&color=7bd88f)](https://visitcount.itsvg.in)
+
+</div>
