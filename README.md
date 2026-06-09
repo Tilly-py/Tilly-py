@@ -6,12 +6,12 @@
 
 ### Information Architecture Student · Developer · Security-Oriented Learner
 
-I am currently studying **Information Architecture at Malmö University**, with a strong interest in **cybersecurity, systems, programming, Linux, and full-stack development**.
+I am currently studying **Information Architecture** and working as a TA at **Malmö University**, with a strong interest in **cybersecurity, systems, programming, Linux, and full-stack development**.
 
 My work focuses on building structured, practical and user-centered technical projects — from web applications and APIs to Linux tools, security dashboards and exploratory pentesting labs.
 
 ```bash
-alex@github:~$ focus
+Tilly-py@github:~$ focus
 security · systems · linux · python · react · typescript
 ```
 
@@ -27,11 +27,13 @@ I am an Information Architecture student with a strong interest in how systems, 
 
 I enjoy projects where I can combine programming, usability, information structure and technical exploration. Recently, I have been working with React, TypeScript, Python, Flask, PostgreSQL, Linux tooling and security-related labs through platforms such as TryHackMe.
 
+I always strive towards learning more and exploring.
+
 ```bash
-alex@portfolio:~$ currently_learning
-Python OOP
-Linux tooling
-Cybersecurity fundamentals
+Tilly-py@portfolio:~$ currently_learning
+Python OOP and Scripting
+Linux tooling and working with CLI
+Cybersecurity fundamentals in pentesting
 Network scanning and enumeration
 System-oriented development
 ```
@@ -88,20 +90,16 @@ Focused on vulnerability browsing, severity visualization and security-oriented 
 ### Under Huven OS
 
 A Linux workshop toolkit for helping students understand what happens “under the hood” of a computer.
-Built with Python, terminal tools and system monitoring.
+Built with Python, shell and system monitoring.
 
-### TuneLink
+### JR-Pentesting Cert
 
-A music forum concept combining Spotify integration with forum-style discussions.
-Built with Flask, databases and role-based functionality.
+Currently Pursuing in my first Certification in JR-Pentesting
 
-### Questions 4 Dummies
-
-A React quiz game using APIs, state management, local storage and interactive UI components.
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -115,31 +113,11 @@ A React quiz game using APIs, state management, local storage and interactive UI
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=tilly-py&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=tilly-py&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
-</div>
-
----
 
 <div align="center">
 
 ```bash
-alex@github:~$ echo "Always learning. Always building."
-Always learning. Always building.
+Tilly-py@github:~$ cat alexanderTheGreat.txt "I am indebted to my father for living, but to my teacher for living well."
 ```
 
 [![](https://komarev.com/ghpvc/?username=tilly-py&style=for-the-badge&color=7bd88f)](https://visitcount.itsvg.in)
