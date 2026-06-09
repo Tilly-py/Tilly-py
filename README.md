@@ -136,8 +136,4 @@ Tilly-py@github:~$ cat alexanderTheGreat.txt
 
 "I am indebted to my father for living,
 but to my teacher for living well."
-
-[![](https://komarev.com/ghpvc/?username=tilly-py&style=for-the-badge&color=7bd88f)](https://visitcount.itsvg.in)
-
-</div>
 ```
