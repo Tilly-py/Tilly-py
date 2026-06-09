@@ -67,12 +67,11 @@ System-oriented development
 ### Security & Pentesting Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-222222?style=for-the-badge&logo=kalilinux&logoColor=5ad4e6" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Nmap-222222?style=for-the-badge&logo=linux&logoColor=7bd88f" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Metasploit-222222?style=for-the-badge&logo=metasploit&logoColor=fc618d" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Metasploitable-222222?style=for-the-badge&logo=linux&logoColor=fce566" alt="Metasploitable" />
-  <img src="https://img.shields.io/badge/TryHackMe-222222?style=for-the-badge&logo=tryhackme&logoColor=fc618d" alt="TryHackMe" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-222222?style=for-the-badge&logo=burpsuite&logoColor=fd9353" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-222222?style=flat-square&logo=linux&logoColor=7bd88f" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-222222?style=flat-square&logo=metasploit&logoColor=fc618d" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Metasploitable-222222?style=flat-square&logo=linux&logoColor=fce566" alt="Metasploitable" />
+  <img src="https://img.shields.io/badge/TryHackMe-222222?style=flat-square&logo=tryhackme&logoColor=fc618d" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-222222?style=flat-square&logo=burpsuite&logoColor=fd9353" alt="Burp Suite" />
 </p>
 
 </div>
@@ -82,18 +81,22 @@ System-oriented development
 ## Current Projects
 
 ### Cyber Threat Dashboard
+
 A TypeScript / React dashboard using CVE data from the NVD API.
 Focused on vulnerability browsing, severity visualization and security-oriented UI.
 
 ### Under Huven OS
+
 A Linux workshop toolkit for helping students understand what happens “under the hood” of a computer.
 Built with Python, terminal tools and system monitoring.
 
 ### TuneLink
+
 A music forum concept combining Spotify integration with forum-style discussions.
 Built with Flask, databases and role-based functionality.
 
 ### Questions 4 Dummies
+
 A React quiz game using APIs, state management, local storage and interactive UI components.
 
 ---
