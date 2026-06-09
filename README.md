@@ -50,7 +50,7 @@ System-oriented development
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 <div align="center">
 
