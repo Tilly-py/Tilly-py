@@ -10,10 +10,6 @@ I am currently studying **Information Architecture** and working as a TA at **Ma
 
 My work focuses on building structured, practical and user-centered technical projects — from web applications and APIs to Linux tools, security dashboards and exploratory pentesting labs.
 
-```bash
-Tilly-py@github:~$ focus
-security · systems · linux · python · react · typescript
-```
 
 </td>
   </tr>
@@ -128,12 +124,3 @@ Currently Pursuing in my first Certification in JR-Pentesting
 </div>
 
 ---
-
-<div align="center">
-
-```bash
-Tilly-py@github:~$ cat alexanderTheGreat.txt
-
-"I am indebted to my father for living,
-but to my teacher for living well."
-```
